@@ -4,4 +4,4 @@ This is my implementation of the genuine sieve of erathostenes of Melissa E. O'N
 
 I used this in my solutions for Project Euler.
 
-[Project Euler Badge](https://projecteuler.net/profile/Nythero.png)
+![Project Euler Badge](https://projecteuler.net/profile/Nythero.png)
